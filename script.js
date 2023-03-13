@@ -12,18 +12,19 @@ let secondCard = false;
 
 //Items array
 const items = [
-  { name: "bee", image: "bee.png" },
-  { name: "crocodile", image: "crocodile.png" },
-  { name: "macaw", image: "macaw.png" },
-  { name: "gorilla", image: "gorilla.png" },
-  { name: "tiger", image: "tiger.png" },
-  { name: "monkey", image: "monkey.png" },
-  { name: "chameleon", image: "chameleon.png" },
-  { name: "piranha", image: "piranha.png" },
-  { name: "anaconda", image: "anaconda.png" },
-  { name: "sloth", image: "sloth.png" },
-  { name: "cockatoo", image: "cockatoo.png" },
-  { name: "toucan", image: "toucan.png" },
+  // { name: "bee", image: "bee.png" },
+  { name: "blazers", image: "blazers.svg" },
+  { name: "bucks", image: "bucks.svg" },
+  { name: "bulls", image: "bulls.svg" },
+  { name: "cavs", image: "cavs.svg" },
+  { name: "celtics", image: "celtics.svg" },
+  { name: "heat", image: "heat.svg" },
+  { name: "jazz", image: "jazz.svg" },
+  { name: "knicks", image: "knicks.svg" },
+  { name: "lakers", image: "lakers.svg" },
+  { name: "mavs", image: "mavs.svg" },
+  { name: "suns", image: "suns.svg" },
+  { name: "warriors", image: "warriors.svg" },
 ];
 
 //Initial Time
